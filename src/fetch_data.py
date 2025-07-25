@@ -1,19 +1,20 @@
 import praw
-import os
 from dotenv import load_dotenv
+import os
 
-load_dotenv()
+# Load .env 
+load_dotenv(dotenv_path=os.path.join(os.path.dirname(__file__), '..', '.env'))
 
-# Initialize Reddit API
+# Create Reddit instance 
 reddit = praw.Reddit(
     client_id=os.getenv("REDDIT_CLIENT_ID"),
     client_secret=os.getenv("REDDIT_CLIENT_SECRET"),
-    user_agent="reddit-alpha-scraper"
+    user_agent=os.getenv("USER_AGENT")
 )
 
 def fetch_posts(subreddit_name, limit=100):
-    subreddit = reddit.subreddit(subreddit_name)
     posts = []
+    subreddit = reddit.subreddit(subreddit_name)
     for post in subreddit.hot(limit=limit):
         posts.append({
             "title": post.title,
@@ -25,6 +26,6 @@ def fetch_posts(subreddit_name, limit=100):
     return posts
 
 if __name__ == "__main__":
-    posts = fetch_posts("wallstreetbets", limit=10)
-    for p in posts:
-        print(p["title"])
+    for p in fetch_posts("wallstreetbets", 10):
+       print(p["title"].encode("ascii", errors="ignore").decode())
+

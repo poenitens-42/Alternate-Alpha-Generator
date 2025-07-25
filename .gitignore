@@ -1,6 +1,21 @@
+# Byte-compiled / cache files
 __pycache__/
+*.py[cod]
+*.so
+
+# VS Code
 .vscode/
-*.pyc
-env/
-.env
+
+# Jupyter Notebook Checkpoints
 *.ipynb_checkpoints/
+
+# Virtual Environments
+.venv/
+env/
+ENV/
+venv/
+*.env
+
+# OS
+.DS_Store
+Thumbs.db

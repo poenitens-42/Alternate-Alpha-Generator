@@ -1,2 +1,29 @@
-praw
-python-dotenv
+
+dotenv
+
+# NLP & Transformer Pipelines
+transformers==4.43.1
+torch>=2.2.0
+spacy==3.7.4
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0.tar.gz
+
+# Parsing & Cleaning
+regex==2024.4.28        # Replaces re2
+emoji==2.11.0
+
+# Web/Data Utilities
+pandas==2.2.2
+requests==2.32.2
+beautifulsoup4==4.12.3
+
+# Reddit & Twitter APIs
+praw==7.8.1
+snscrape==0.7.0.20230622
+
+# Optional: Scheduler / Async
+schedule==1.2.1
+aiohttp==3.9.5
+
+# Dev & Logging
+tqdm==4.66.4
+loguru==0.7.2
