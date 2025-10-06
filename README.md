@@ -1,6 +1,6 @@
 # Alternate Alpha Generator 
 
-A pipeline to extract trading alpha signals from Reddit discussions using NLP and sentiment analysis.
+A pipeline to extract trading alpha signals from Reddit/X/Satellite discussions using NLP and sentiment analysis.
 
 ## Features
 
