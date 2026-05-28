@@ -1,0 +1,338 @@
+[
+  {
+    "date": "2025-12-21",
+    "occupancy": 0.008442941250156582,
+    "cloud_pct": 0.222042,
+    "image_id": "20251221T170731_20251221T170732_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2025-12-29",
+    "occupancy": 0.0,
+    "cloud_pct": 12.276645,
+    "image_id": "20251229T171629_20251229T171723_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2026-01-02",
+    "occupancy": 0.0,
+    "cloud_pct": 1.557951,
+    "image_id": "20260102T170721_20260102T170718_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2026-01-12",
+    "occupancy": 0.10784361937546101,
+    "cloud_pct": 13.184036,
+    "image_id": "20260112T170721_20260112T170826_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2026-01-25",
+    "occupancy": 0.0,
+    "cloud_pct": 3.783168,
+    "image_id": "20260125T170509_20260125T171010_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2026-01-28",
+    "occupancy": 0.0037185154002666106,
+    "cloud_pct": 0.046476,
+    "image_id": "20260128T171449_20260128T171451_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2026-01-30",
+    "occupancy": 0.005367743021934071,
+    "cloud_pct": 10.142083,
+    "image_id": "20260130T170541_20260130T170617_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2026-02-02",
+    "occupancy": 0.038164674691582384,
+    "cloud_pct": 10.006645,
+    "image_id": "20260202T171531_20260202T171653_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2026-02-12",
+    "occupancy": 0.33975694522906713,
+    "cloud_pct": 0.000431,
+    "image_id": "20260212T171431_20260212T171657_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2026-03-11",
+    "occupancy": 0.11782673606907962,
+    "cloud_pct": 12.563555,
+    "image_id": "20260311T170121_20260311T170742_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2026-03-19",
+    "occupancy": 0.14167241282916196,
+    "cloud_pct": 4.051841,
+    "image_id": "20260319T170919_20260319T171641_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2026-04-05",
+    "occupancy": 0.11114064650875805,
+    "cloud_pct": 3.56713,
+    "image_id": "20260405T165849_20260405T170643_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2026-04-10",
+    "occupancy": 0.03480633611109341,
+    "cloud_pct": 0.171274,
+    "image_id": "20260410T165841_20260410T170306_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2026-05-03",
+    "occupancy": 0.01720305982092332,
+    "cloud_pct": 0.005027,
+    "image_id": "20260503T170851_20260503T172043_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2026-05-08",
+    "occupancy": 0.010960841855176214,
+    "cloud_pct": 19.257696,
+    "image_id": "20260508T170849_20260508T171145_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2026-05-10",
+    "occupancy": 0.0030878960529422796,
+    "cloud_pct": 14.649558,
+    "image_id": "20260510T165851_20260510T171000_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2026-05-12",
+    "occupancy": 0.009665864336751132,
+    "cloud_pct": 9.947403,
+    "image_id": "20260512T170711_20260512T170710_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2026-05-13",
+    "occupancy": 0.03617829903954462,
+    "cloud_pct": 0.09137,
+    "image_id": "20260513T170851_20260513T171423_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2026-05-15",
+    "occupancy": 0.00133782422563586,
+    "cloud_pct": 0.001665,
+    "image_id": "20260515T165839_20260515T170109_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2026-05-25",
+    "occupancy": 0.013192014950950277,
+    "cloud_pct": 0.017684,
+    "image_id": "20260525T165839_20260525T170108_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2026-05-25",
+    "occupancy": 0.041016944478912465,
+    "cloud_pct": 1.819914,
+    "image_id": "20260525T171721_20260525T171840_T15TVK",
+    "location": "Target - Edina MN (near HQ)"
+  },
+  {
+    "date": "2025-12-04",
+    "occupancy": 0.15236136797395708,
+    "cloud_pct": 11.112797,
+    "image_id": "20251204T185751_20251204T190044_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2025-12-09",
+    "occupancy": 0.24604833633899997,
+    "cloud_pct": 19.243759,
+    "image_id": "20251209T185659_20251209T185701_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2025-12-29",
+    "occupancy": 0.2992673907015744,
+    "cloud_pct": 0.004356,
+    "image_id": "20251229T185709_20251229T190039_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-01-08",
+    "occupancy": 0.3142125335530337,
+    "cloud_pct": 0.01858,
+    "image_id": "20260108T185649_20260108T185820_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-01-13",
+    "occupancy": 0.2749207365456458,
+    "cloud_pct": 0.004549,
+    "image_id": "20260113T185741_20260113T190357_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-01-18",
+    "occupancy": 0.26872403319687527,
+    "cloud_pct": 18.92782,
+    "image_id": "20260118T185619_20260118T185620_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-02-02",
+    "occupancy": 0.2500895400486695,
+    "cloud_pct": 15.425079,
+    "image_id": "20260202T185611_20260202T190357_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-02-12",
+    "occupancy": 0.2549620648158059,
+    "cloud_pct": 6.002263,
+    "image_id": "20260212T185511_20260212T190357_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-02-27",
+    "occupancy": 0.2402613688423995,
+    "cloud_pct": 10.451402,
+    "image_id": "20260227T185229_20260227T185854_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-03-06",
+    "occupancy": 0.18906624129890076,
+    "cloud_pct": 5.607576,
+    "image_id": "20260306T185831_20260306T185838_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-03-09",
+    "occupancy": 0.16823465441002966,
+    "cloud_pct": 1.521914,
+    "image_id": "20260309T185119_20260309T185245_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-03-14",
+    "occupancy": 0.1751207066827609,
+    "cloud_pct": 5.994489,
+    "image_id": "20260314T185141_20260314T185600_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-03-16",
+    "occupancy": 0.17661600315118914,
+    "cloud_pct": 4.173297,
+    "image_id": "20260316T185831_20260316T190325_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-03-19",
+    "occupancy": 0.1540212286110364,
+    "cloud_pct": 4.493668,
+    "image_id": "20260319T185009_20260319T190139_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-03-24",
+    "occupancy": 0.14354134240244648,
+    "cloud_pct": 0.23547,
+    "image_id": "20260324T185031_20260324T190122_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-04-03",
+    "occupancy": 0.12368543639982495,
+    "cloud_pct": 0.619195,
+    "image_id": "20260403T184921_20260403T190206_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-04-05",
+    "occupancy": 0.14138005263559913,
+    "cloud_pct": 1.379322,
+    "image_id": "20260405T185831_20260405T190038_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-04-08",
+    "occupancy": 0.16018109266400193,
+    "cloud_pct": 6.890936,
+    "image_id": "20260408T184919_20260408T185802_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-04-23",
+    "occupancy": 0.10691903093273085,
+    "cloud_pct": 15.753661,
+    "image_id": "20260423T184921_20260423T190303_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-04-28",
+    "occupancy": 0.10280608755762073,
+    "cloud_pct": 11.527752,
+    "image_id": "20260428T184919_20260428T190219_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-05-13",
+    "occupancy": 0.08152544210102508,
+    "cloud_pct": 0.927601,
+    "image_id": "20260513T184921_20260513T185702_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-05-15",
+    "occupancy": 0.08385046048339377,
+    "cloud_pct": 0.063457,
+    "image_id": "20260515T185831_20260515T190036_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-05-18",
+    "occupancy": 0.07019525327227154,
+    "cloud_pct": 0.712134,
+    "image_id": "20260518T184919_20260518T185532_T10SEG",
+    "location": "Target - Newark CA"
+  },
+  {
+    "date": "2026-02-13",
+    "occupancy": 0.745230013361773,
+    "cloud_pct": 1.397484,
+    "image_id": "20260213T164411_20260213T164440_T16TDM",
+    "location": "Target - Chicago IL (Addison)"
+  },
+  {
+    "date": "2026-02-18",
+    "occupancy": 0.7324255709427642,
+    "cloud_pct": 0.051098,
+    "image_id": "20260218T164239_20260218T164622_T16TDM",
+    "location": "Target - Chicago IL (Addison)"
+  },
+  {
+    "date": "2026-05-04",
+    "occupancy": 0.12004418428887485,
+    "cloud_pct": 1.243947,
+    "image_id": "20260504T163901_20260504T164500_T16TDM",
+    "location": "Target - Chicago IL (Addison)"
+  },
+  {
+    "date": "2026-05-14",
+    "occupancy": 0.05539523944554728,
+    "cloud_pct": 9.413101,
+    "image_id": "20260514T163841_20260514T164528_T16TDM",
+    "location": "Target - Chicago IL (Addison)"
+  }
+]

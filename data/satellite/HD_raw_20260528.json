@@ -1,0 +1,534 @@
+[
+  {
+    "date": "2025-12-14",
+    "occupancy": 0.5975565233264666,
+    "cloud_pct": 2.331666,
+    "image_id": "20251214T162609_20251214T163214_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2025-12-16",
+    "occupancy": 0.49287173777707766,
+    "cloud_pct": 0.657432,
+    "image_id": "20251216T161711_20251216T161846_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2025-12-19",
+    "occupancy": 0.6162204294789357,
+    "cloud_pct": 0.069396,
+    "image_id": "20251219T162721_20251219T162740_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2025-12-24",
+    "occupancy": 0.6757044232158624,
+    "cloud_pct": 10.124798,
+    "image_id": "20251224T162609_20251224T162742_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2025-12-29",
+    "occupancy": 0.6562473847183868,
+    "cloud_pct": 15.565863,
+    "image_id": "20251229T162941_20251229T163008_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2025-12-31",
+    "occupancy": 0.6348240434639105,
+    "cloud_pct": 0.001659,
+    "image_id": "20251231T162721_20251231T162723_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-01-13",
+    "occupancy": 0.6673038949596034,
+    "cloud_pct": 0.001599,
+    "image_id": "20260113T162539_20260113T162939_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-01-18",
+    "occupancy": 0.6207211713469393,
+    "cloud_pct": 17.428322,
+    "image_id": "20260118T162621_20260118T162642_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-01-28",
+    "occupancy": 0.612182722861422,
+    "cloud_pct": 1.830101,
+    "image_id": "20260128T162531_20260128T162554_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-02-02",
+    "occupancy": 0.593822872164785,
+    "cloud_pct": 15.153779,
+    "image_id": "20260202T162409_20260202T163128_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-02-07",
+    "occupancy": 0.5851736812134392,
+    "cloud_pct": 0.78035,
+    "image_id": "20260207T162441_20260207T162503_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-02-12",
+    "occupancy": 0.6100772922085062,
+    "cloud_pct": 0.004153,
+    "image_id": "20260212T162309_20260212T163338_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-02-22",
+    "occupancy": 0.5460498946900226,
+    "cloud_pct": 1.537222,
+    "image_id": "20260222T162159_20260222T163018_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-03-01",
+    "occupancy": 0.6578581363004172,
+    "cloud_pct": 0.298223,
+    "image_id": "20260301T161109_20260301T162103_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-03-21",
+    "occupancy": 0.0,
+    "cloud_pct": 4.393353,
+    "image_id": "20260321T160859_20260321T161711_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-03-24",
+    "occupancy": 0.32184185341205246,
+    "cloud_pct": 16.158715,
+    "image_id": "20260324T161859_20260324T162938_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-03-26",
+    "occupancy": 0.21031200339852438,
+    "cloud_pct": 4.277764,
+    "image_id": "20260326T160911_20260326T161720_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-03-28",
+    "occupancy": 0.2060156791637781,
+    "cloud_pct": 0.129701,
+    "image_id": "20260328T161711_20260328T161709_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-04-10",
+    "occupancy": 0.380853022399509,
+    "cloud_pct": 0.015192,
+    "image_id": "20260410T160819_20260410T161256_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-04-17",
+    "occupancy": 0.17566536086246165,
+    "cloud_pct": 0.026046,
+    "image_id": "20260417T161711_20260417T161942_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-04-20",
+    "occupancy": 0.0,
+    "cloud_pct": 0.007057,
+    "image_id": "20260420T160819_20260420T162130_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-04-20",
+    "occupancy": 0.24283206037274177,
+    "cloud_pct": 0.007895,
+    "image_id": "20260420T162711_20260420T162815_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-04-23",
+    "occupancy": 0.22723314635183578,
+    "cloud_pct": 2.331351,
+    "image_id": "20260423T161819_20260423T163328_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-05-03",
+    "occupancy": 0.22116781872519067,
+    "cloud_pct": 0.069814,
+    "image_id": "20260503T161829_20260503T162602_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-05-05",
+    "occupancy": 0.1425469309227745,
+    "cloud_pct": 3.507807,
+    "image_id": "20260505T160901_20260505T162338_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-05-10",
+    "occupancy": 0.0,
+    "cloud_pct": 0.322573,
+    "image_id": "20260510T160819_20260510T161614_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-05-10",
+    "occupancy": 0.23095257490594337,
+    "cloud_pct": 1.69752,
+    "image_id": "20260510T162701_20260510T163341_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-05-13",
+    "occupancy": 0.20618105731993083,
+    "cloud_pct": 0.533379,
+    "image_id": "20260513T161829_20260513T163145_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2026-05-18",
+    "occupancy": 0.10273925210652561,
+    "cloud_pct": 9.607425,
+    "image_id": "20260518T161831_20260518T163047_T16SGC",
+    "location": "Home Depot - Atlanta GA (near HQ)"
+  },
+  {
+    "date": "2025-12-08",
+    "occupancy": 0.3817925349613745,
+    "cloud_pct": 0.433725,
+    "image_id": "20251208T183801_20251208T184411_T11SLT",
+    "location": "Home Depot - Burbank CA"
+  },
+  {
+    "date": "2025-12-28",
+    "occupancy": 0.3638946581846183,
+    "cloud_pct": 0.051941,
+    "image_id": "20251228T183811_20251228T184408_T11SLT",
+    "location": "Home Depot - Burbank CA"
+  },
+  {
+    "date": "2026-01-07",
+    "occupancy": 0.2338598328849954,
+    "cloud_pct": 14.571056,
+    "image_id": "20260107T183751_20260107T184408_T11SLT",
+    "location": "Home Depot - Burbank CA"
+  },
+  {
+    "date": "2026-01-09",
+    "occupancy": 0.352925575437468,
+    "cloud_pct": 0.152521,
+    "image_id": "20260109T183831_20260109T183832_T11SLT",
+    "location": "Home Depot - Burbank CA"
+  },
+  {
+    "date": "2026-01-27",
+    "occupancy": 0.3289244132791826,
+    "cloud_pct": 0.750611,
+    "image_id": "20260127T183631_20260127T184400_T11SLT",
+    "location": "Home Depot - Burbank CA"
+  },
+  {
+    "date": "2026-02-01",
+    "occupancy": 0.31573822936226453,
+    "cloud_pct": 0.010461,
+    "image_id": "20260201T183509_20260201T183645_T11SLT",
+    "location": "Home Depot - Burbank CA"
+  },
+  {
+    "date": "2026-02-06",
+    "occupancy": 0.34545908553333843,
+    "cloud_pct": 16.422088,
+    "image_id": "20260206T183541_20260206T184403_T11SLT",
+    "location": "Home Depot - Burbank CA"
+  },
+  {
+    "date": "2026-02-21",
+    "occupancy": 0.24885271581003787,
+    "cloud_pct": 1.284979,
+    "image_id": "20260221T183259_20260221T183825_T11SLT",
+    "location": "Home Depot - Burbank CA"
+  },
+  {
+    "date": "2026-02-21",
+    "occupancy": 0.2642969053112312,
+    "cloud_pct": 1.277471,
+    "image_id": "20260221T184341_20260221T184344_T11SLT",
+    "location": "Home Depot - Burbank CA"
+  },
+  {
+    "date": "2026-03-08",
+    "occupancy": 0.18944035265615428,
+    "cloud_pct": 0.487955,
+    "image_id": "20260308T183221_20260308T183441_T11SLT",
+    "location": "Home Depot - Burbank CA"
+  },
+  {
+    "date": "2026-03-18",
+    "occupancy": 0.16588420335919088,
+    "cloud_pct": 0.005607,
+    "image_id": "20260318T183111_20260318T184344_T11SLT",
+    "location": "Home Depot - Burbank CA"
+  },
+  {
+    "date": "2026-03-20",
+    "occupancy": 0.1682671516501485,
+    "cloud_pct": 0.004761,
+    "image_id": "20260320T183831_20260320T184055_T11SLT",
+    "location": "Home Depot - Burbank CA"
+  },
+  {
+    "date": "2026-04-07",
+    "occupancy": 0.08288363344883526,
+    "cloud_pct": 14.846168,
+    "image_id": "20260407T182921_20260407T183642_T11SLT",
+    "location": "Home Depot - Burbank CA"
+  },
+  {
+    "date": "2026-04-17",
+    "occupancy": 0.043711152159617774,
+    "cloud_pct": 0.349959,
+    "image_id": "20260417T182921_20260417T183839_T11SLT",
+    "location": "Home Depot - Burbank CA"
+  },
+  {
+    "date": "2026-04-22",
+    "occupancy": 0.022015929776367415,
+    "cloud_pct": 19.235517,
+    "image_id": "20260422T182909_20260422T183733_T11SLT",
+    "location": "Home Depot - Burbank CA"
+  },
+  {
+    "date": "2026-04-29",
+    "occupancy": 0.05378779185538691,
+    "cloud_pct": 0.111506,
+    "image_id": "20260429T183831_20260429T183847_T11SLT",
+    "location": "Home Depot - Burbank CA"
+  },
+  {
+    "date": "2026-05-07",
+    "occupancy": 0.05259218686743262,
+    "cloud_pct": 14.734942,
+    "image_id": "20260507T182921_20260507T184119_T11SLT",
+    "location": "Home Depot - Burbank CA"
+  },
+  {
+    "date": "2026-05-19",
+    "occupancy": 0.04046185061172387,
+    "cloud_pct": 0.153838,
+    "image_id": "20260519T183831_20260519T183906_T11SLT",
+    "location": "Home Depot - Burbank CA"
+  },
+  {
+    "date": "2025-12-09",
+    "occupancy": 0.11691760656891056,
+    "cloud_pct": 0.00758,
+    "image_id": "20251209T171619_20251209T171757_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2025-12-11",
+    "occupancy": 0.08089289579049891,
+    "cloud_pct": 19.173752,
+    "image_id": "20251211T170731_20251211T170725_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2025-12-24",
+    "occupancy": 0.17421880221667513,
+    "cloud_pct": 8.348921,
+    "image_id": "20251224T171741_20251224T171736_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2025-12-26",
+    "occupancy": 0.13128682603978967,
+    "cloud_pct": 0.031938,
+    "image_id": "20251226T170629_20251226T170703_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2025-12-26",
+    "occupancy": 0.20216895010709598,
+    "cloud_pct": 0.01157,
+    "image_id": "20251226T171751_20251226T171748_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2025-12-31",
+    "occupancy": 0.10397225332835641,
+    "cloud_pct": 0.005783,
+    "image_id": "20251231T170731_20251231T170726_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-01-02",
+    "occupancy": 0.12286665272120992,
+    "cloud_pct": 0.006785,
+    "image_id": "20260102T170721_20260102T170718_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-01-03",
+    "occupancy": 0.15221309350870116,
+    "cloud_pct": 0.003169,
+    "image_id": "20260103T171731_20260103T171725_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-01-15",
+    "occupancy": 0.1042829354328303,
+    "cloud_pct": 0.004018,
+    "image_id": "20260115T170549_20260115T171315_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-01-20",
+    "occupancy": 0.05247191752214727,
+    "cloud_pct": 9.158686,
+    "image_id": "20260120T170631_20260120T170625_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-01-28",
+    "occupancy": 0.011289579939080543,
+    "cloud_pct": 0.026798,
+    "image_id": "20260128T171449_20260128T172240_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-01-30",
+    "occupancy": 0.06619924419072125,
+    "cloud_pct": 13.250016,
+    "image_id": "20260130T170541_20260130T170617_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-02-02",
+    "occupancy": 0.12736918210022494,
+    "cloud_pct": 17.072327,
+    "image_id": "20260202T171531_20260202T171653_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-02-07",
+    "occupancy": 0.11689796861836249,
+    "cloud_pct": 2.678696,
+    "image_id": "20260207T171359_20260207T172409_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-02-12",
+    "occupancy": 0.09732358627356215,
+    "cloud_pct": 0.026703,
+    "image_id": "20260212T171431_20260212T171657_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-02-22",
+    "occupancy": 0.049708048761454994,
+    "cloud_pct": 0.126831,
+    "image_id": "20260222T171321_20260222T172243_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-02-27",
+    "occupancy": 0.043813153034429266,
+    "cloud_pct": 0.010693,
+    "image_id": "20260227T171149_20260227T172254_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-03-13",
+    "occupancy": 0.007227891156462585,
+    "cloud_pct": 2.184459,
+    "image_id": "20260313T170721_20260313T171209_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-03-14",
+    "occupancy": 0.012137663526807766,
+    "cloud_pct": 0.005736,
+    "image_id": "20260314T171101_20260314T172140_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-03-19",
+    "occupancy": 0.010337950927673518,
+    "cloud_pct": 0.012648,
+    "image_id": "20260319T170919_20260319T172419_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-03-21",
+    "occupancy": 0.0034564866733236043,
+    "cloud_pct": 0.008573,
+    "image_id": "20260321T170011_20260321T171327_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-03-24",
+    "occupancy": 0.005597875002744059,
+    "cloud_pct": 0.705979,
+    "image_id": "20260324T170951_20260324T171342_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-03-26",
+    "occupancy": 0.0,
+    "cloud_pct": 0.297229,
+    "image_id": "20260326T165849_20260326T171344_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-03-26",
+    "occupancy": 0.004628638018725111,
+    "cloud_pct": 0.013608,
+    "image_id": "20260326T171721_20260326T171942_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-03-29",
+    "occupancy": 0.004871870181364272,
+    "cloud_pct": 0.011963,
+    "image_id": "20260329T170849_20260329T171956_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-04-08",
+    "occupancy": 0.0,
+    "cloud_pct": 19.747755,
+    "image_id": "20260408T170849_20260408T171747_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-05-03",
+    "occupancy": 0.0,
+    "cloud_pct": 1.651064,
+    "image_id": "20260503T170851_20260503T172043_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-05-12",
+    "occupancy": 0.0,
+    "cloud_pct": 1.065763,
+    "image_id": "20260512T170711_20260512T170710_T14SQB",
+    "location": "Home Depot - Plano TX"
+  },
+  {
+    "date": "2026-05-13",
+    "occupancy": 0.0,
+    "cloud_pct": 1.61138,
+    "image_id": "20260513T170851_20260513T171423_T14SQB",
+    "location": "Home Depot - Plano TX"
+  }
+]

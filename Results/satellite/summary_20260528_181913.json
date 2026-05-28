@@ -1,0 +1,23 @@
+{
+  "WMT": {
+    "observations": 68,
+    "date_range": "2025-12-16 to 2026-05-26",
+    "correlation_1d_fwd": -0.07978714205550583,
+    "correlation_5d_fwd": -0.06295542258924958,
+    "aligned_n": 43
+  },
+  "TGT": {
+    "observations": 33,
+    "date_range": "2026-01-08 to 2026-05-25",
+    "correlation_1d_fwd": 0.379076552241106,
+    "correlation_5d_fwd": 0.10206337425887348,
+    "aligned_n": 25
+  },
+  "HD": {
+    "observations": 53,
+    "date_range": "2025-12-19 to 2026-05-19",
+    "correlation_1d_fwd": -0.09268845881098685,
+    "correlation_5d_fwd": 0.12872457890344002,
+    "aligned_n": 38
+  }
+}

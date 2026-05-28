@@ -1,0 +1,898 @@
+[
+  {
+    "date": "2025-12-26",
+    "occupancy": 0.3169036088111233,
+    "cloud_pct": 3.182913,
+    "image_id": "20251226T170629_20251226T170703_T15SUA",
+    "location": "Walmart Supercenter - Bentonville AR (HQ area)"
+  },
+  {
+    "date": "2025-12-31",
+    "occupancy": 0.2847822748478863,
+    "cloud_pct": 0.031111,
+    "image_id": "20251231T170731_20251231T170726_T15SUA",
+    "location": "Walmart Supercenter - Bentonville AR (HQ area)"
+  },
+  {
+    "date": "2026-01-05",
+    "occupancy": 0.3026623268235687,
+    "cloud_pct": 0.000634,
+    "image_id": "20260105T170619_20260105T171157_T15SUA",
+    "location": "Walmart Supercenter - Bentonville AR (HQ area)"
+  },
+  {
+    "date": "2026-01-10",
+    "occupancy": 0.258245056210762,
+    "cloud_pct": 1.530977,
+    "image_id": "20260110T170701_20260110T170703_T15SUA",
+    "location": "Walmart Supercenter - Bentonville AR (HQ area)"
+  },
+  {
+    "date": "2026-01-12",
+    "occupancy": 0.3024463364265263,
+    "cloud_pct": 10.538459,
+    "image_id": "20260112T170721_20260112T170826_T15SUA",
+    "location": "Walmart Supercenter - Bentonville AR (HQ area)"
+  },
+  {
+    "date": "2026-01-15",
+    "occupancy": 0.26097643391249375,
+    "cloud_pct": 14.679752,
+    "image_id": "20260115T170549_20260115T171315_T15SUA",
+    "location": "Walmart Supercenter - Bentonville AR (HQ area)"
+  },
+  {
+    "date": "2026-01-20",
+    "occupancy": 0.2749739283899778,
+    "cloud_pct": 0.060325,
+    "image_id": "20260120T170631_20260120T170625_T15SUA",
+    "location": "Walmart Supercenter - Bentonville AR (HQ area)"
+  },
+  {
+    "date": "2026-02-09",
+    "occupancy": 0.24015777772981373,
+    "cloud_pct": 0.000952,
+    "image_id": "20260209T170441_20260209T170457_T15SUA",
+    "location": "Walmart Supercenter - Bentonville AR (HQ area)"
+  },
+  {
+    "date": "2026-02-19",
+    "occupancy": 0.18695850947943535,
+    "cloud_pct": 0.005584,
+    "image_id": "20260219T170341_20260219T170940_T15SUA",
+    "location": "Walmart Supercenter - Bentonville AR (HQ area)"
+  },
+  {
+    "date": "2026-03-21",
+    "occupancy": 0.14101823433832825,
+    "cloud_pct": 3.050274,
+    "image_id": "20260321T170011_20260321T171327_T15SUA",
+    "location": "Walmart Supercenter - Bentonville AR (HQ area)"
+  },
+  {
+    "date": "2026-03-26",
+    "occupancy": 0.12334360789819028,
+    "cloud_pct": 6.653488,
+    "image_id": "20260326T165849_20260326T170501_T15SUA",
+    "location": "Walmart Supercenter - Bentonville AR (HQ area)"
+  },
+  {
+    "date": "2026-04-05",
+    "occupancy": 0.08247803731840776,
+    "cloud_pct": 0.35121,
+    "image_id": "20260405T165849_20260405T170643_T15SUA",
+    "location": "Walmart Supercenter - Bentonville AR (HQ area)"
+  },
+  {
+    "date": "2026-04-20",
+    "occupancy": 0.05705592033426996,
+    "cloud_pct": 5.613551,
+    "image_id": "20260420T165851_20260420T170513_T15SUA",
+    "location": "Walmart Supercenter - Bentonville AR (HQ area)"
+  },
+  {
+    "date": "2026-04-25",
+    "occupancy": 0.12866477080371047,
+    "cloud_pct": 13.715485,
+    "image_id": "20260425T165849_20260425T171230_T15SUA",
+    "location": "Walmart Supercenter - Bentonville AR (HQ area)"
+  },
+  {
+    "date": "2026-05-12",
+    "occupancy": 0.05698324022346369,
+    "cloud_pct": 0.000899,
+    "image_id": "20260512T170711_20260512T170710_T15SUA",
+    "location": "Walmart Supercenter - Bentonville AR (HQ area)"
+  },
+  {
+    "date": "2025-11-29",
+    "occupancy": 0.6722094660663565,
+    "cloud_pct": 7.226671,
+    "image_id": "20251129T154711_20251129T155150_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2025-12-12",
+    "occupancy": 0.7096882993535025,
+    "cloud_pct": 1.334678,
+    "image_id": "20251212T154549_20251212T154818_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2025-12-12",
+    "occupancy": 0.7533683851363877,
+    "cloud_pct": 1.741753,
+    "image_id": "20251212T155701_20251212T155704_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2025-12-22",
+    "occupancy": 0.7254898274861968,
+    "cloud_pct": 0.219804,
+    "image_id": "20251222T154559_20251222T154635_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-01-01",
+    "occupancy": 0.4614930640058414,
+    "cloud_pct": 6.09463,
+    "image_id": "20260101T154549_20260101T154729_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-01-04",
+    "occupancy": 0.43351407584880725,
+    "cloud_pct": 19.538397,
+    "image_id": "20260104T155549_20260104T155544_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-01-16",
+    "occupancy": 0.5413473439177732,
+    "cloud_pct": 2.47952,
+    "image_id": "20260116T154611_20260116T154811_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-01-29",
+    "occupancy": 0.03789234647730116,
+    "cloud_pct": 9.150098,
+    "image_id": "20260129T155511_20260129T155511_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-02-05",
+    "occupancy": 0.19467423628007563,
+    "cloud_pct": 0.347065,
+    "image_id": "20260205T154431_20260205T154651_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-02-08",
+    "occupancy": 0.06326660162490785,
+    "cloud_pct": 9.596565,
+    "image_id": "20260208T155421_20260208T155959_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-02-13",
+    "occupancy": 0.4863374004529851,
+    "cloud_pct": 0.456529,
+    "image_id": "20260213T155249_20260213T160008_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-02-28",
+    "occupancy": 0.4901432771437013,
+    "cloud_pct": 14.891806,
+    "image_id": "20260228T155211_20260228T155724_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-03-09",
+    "occupancy": 0.7978470560797867,
+    "cloud_pct": 0.006122,
+    "image_id": "20260309T154711_20260309T154712_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-03-10",
+    "occupancy": 0.8429811695995424,
+    "cloud_pct": 1.448466,
+    "image_id": "20260310T155101_20260310T155515_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-04-08",
+    "occupancy": 0.6206754142344777,
+    "cloud_pct": 8.633284,
+    "image_id": "20260408T154711_20260408T155034_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-04-09",
+    "occupancy": 0.667399579942243,
+    "cloud_pct": 5.184695,
+    "image_id": "20260409T154811_20260409T155036_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-04-11",
+    "occupancy": 0.6288011887836482,
+    "cloud_pct": 5.978784,
+    "image_id": "20260411T153939_20260411T154723_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-04-21",
+    "occupancy": 0.5471654044458985,
+    "cloud_pct": 3.200345,
+    "image_id": "20260421T153809_20260421T154947_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-04-21",
+    "occupancy": 0.58006445879362,
+    "cloud_pct": 5.602267,
+    "image_id": "20260421T155711_20260421T155708_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-04-24",
+    "occupancy": 0.5627698601694091,
+    "cloud_pct": 3.661689,
+    "image_id": "20260424T154809_20260424T155238_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-05-01",
+    "occupancy": 0.5390961881216587,
+    "cloud_pct": 3.076883,
+    "image_id": "20260501T153809_20260501T154025_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-05-04",
+    "occupancy": 0.1189835487082435,
+    "cloud_pct": 6.977433,
+    "image_id": "20260504T154809_20260504T155333_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-05-16",
+    "occupancy": 0.5340318172036457,
+    "cloud_pct": 4.07305,
+    "image_id": "20260516T153811_20260516T154300_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-05-18",
+    "occupancy": 0.5021474889818381,
+    "cloud_pct": 9.48623,
+    "image_id": "20260518T154711_20260518T155022_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-05-19",
+    "occupancy": 0.532846053766428,
+    "cloud_pct": 17.464043,
+    "image_id": "20260519T154811_20260519T154944_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2026-05-26",
+    "occupancy": 0.43998927445620234,
+    "cloud_pct": 14.444913,
+    "image_id": "20260526T153811_20260526T154326_T18TWL",
+    "location": "Walmart Supercenter - Secaucus NJ"
+  },
+  {
+    "date": "2025-12-01",
+    "occupancy": 0.27365036932438297,
+    "cloud_pct": 3.469746,
+    "image_id": "20251201T175619_20251201T180002_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2025-12-08",
+    "occupancy": 0.038532471900989435,
+    "cloud_pct": 0.094409,
+    "image_id": "20251208T174629_20251208T174756_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2025-12-08",
+    "occupancy": 0.01962319143793988,
+    "cloud_pct": 1.14896,
+    "image_id": "20251208T174629_20251208T174756_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2025-12-13",
+    "occupancy": 0.0,
+    "cloud_pct": 16.120555,
+    "image_id": "20251213T174741_20251213T174834_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2025-12-16",
+    "occupancy": 0.32713725928944937,
+    "cloud_pct": 4.011092,
+    "image_id": "20251216T175751_20251216T175857_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2025-12-18",
+    "occupancy": 0.0,
+    "cloud_pct": 19.146964,
+    "image_id": "20251218T174649_20251218T174842_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2025-12-18",
+    "occupancy": 0.006389034707072519,
+    "cloud_pct": 4.278829,
+    "image_id": "20251218T175801_20251218T175800_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2025-12-18",
+    "occupancy": 0.0070617035139690885,
+    "cloud_pct": 12.858242,
+    "image_id": "20251218T175801_20251218T175800_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2025-12-21",
+    "occupancy": 0.012822022227028924,
+    "cloud_pct": 1.306897,
+    "image_id": "20251221T175649_20251221T175648_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2025-12-21",
+    "occupancy": 0.012875961297879305,
+    "cloud_pct": 16.847472,
+    "image_id": "20251221T175649_20251221T175648_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2025-12-25",
+    "occupancy": 0.11035266141531666,
+    "cloud_pct": 5.259355,
+    "image_id": "20251225T174801_20251225T174759_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2025-12-26",
+    "occupancy": 0.23209232588588088,
+    "cloud_pct": 0.607291,
+    "image_id": "20251226T175751_20251226T175857_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2025-12-28",
+    "occupancy": 0.0,
+    "cloud_pct": 0.553818,
+    "image_id": "20251228T174639_20251228T175159_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2025-12-28",
+    "occupancy": 0.0,
+    "cloud_pct": 1.348725,
+    "image_id": "20251228T174639_20251228T175159_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2025-12-31",
+    "occupancy": 0.3171286094706956,
+    "cloud_pct": 0.000418,
+    "image_id": "20251231T175649_20251231T175643_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2025-12-31",
+    "occupancy": 0.3155538069544365,
+    "cloud_pct": 0.003271,
+    "image_id": "20251231T175649_20251231T175643_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-01-07",
+    "occupancy": 0.2515261857081637,
+    "cloud_pct": 0.037134,
+    "image_id": "20260107T174629_20260107T175222_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-01-07",
+    "occupancy": 0.24364656773545,
+    "cloud_pct": 0.037624,
+    "image_id": "20260107T174629_20260107T175222_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-01-07",
+    "occupancy": 0.35832100316149157,
+    "cloud_pct": 4.175007,
+    "image_id": "20260107T175751_20260107T175748_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-01-07",
+    "occupancy": 0.361193058452609,
+    "cloud_pct": 4.069622,
+    "image_id": "20260107T175751_20260107T175748_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-01-10",
+    "occupancy": 0.0,
+    "cloud_pct": 0.198931,
+    "image_id": "20260110T175619_20260110T180243_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-01-10",
+    "occupancy": 0.0,
+    "cloud_pct": 12.413316,
+    "image_id": "20260110T175619_20260110T180243_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-01-12",
+    "occupancy": 0.0,
+    "cloud_pct": 3.393912,
+    "image_id": "20260112T174711_20260112T174759_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-01-15",
+    "occupancy": 0.3155002713998081,
+    "cloud_pct": 0.004283,
+    "image_id": "20260115T175711_20260115T175853_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-01-15",
+    "occupancy": 0.31287162080835806,
+    "cloud_pct": 0.126416,
+    "image_id": "20260115T175711_20260115T175853_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-01-17",
+    "occupancy": 0.24939342218086707,
+    "cloud_pct": 0.432212,
+    "image_id": "20260117T174549_20260117T174657_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-01-17",
+    "occupancy": 0.23107725835628057,
+    "cloud_pct": 9.818988,
+    "image_id": "20260117T174549_20260117T174657_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-01-22",
+    "occupancy": 0.19285345085557282,
+    "cloud_pct": 0.041823,
+    "image_id": "20260122T174631_20260122T175250_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-01-22",
+    "occupancy": 0.18144090035981933,
+    "cloud_pct": 3.419726,
+    "image_id": "20260122T174631_20260122T175250_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-01-27",
+    "occupancy": 0.0,
+    "cloud_pct": 18.189812,
+    "image_id": "20260127T174509_20260127T174956_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-01-30",
+    "occupancy": 0.29786945275326526,
+    "cloud_pct": 5.21416,
+    "image_id": "20260130T175459_20260130T175732_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-01",
+    "occupancy": 0.23774390758964406,
+    "cloud_pct": 10.536494,
+    "image_id": "20260201T174541_20260201T175035_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-01",
+    "occupancy": 0.1952375048471723,
+    "cloud_pct": 0.566216,
+    "image_id": "20260201T174541_20260201T175035_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-04",
+    "occupancy": 0.27749615340513645,
+    "cloud_pct": 0.571357,
+    "image_id": "20260204T175531_20260204T175605_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-04",
+    "occupancy": 0.2894900622096859,
+    "cloud_pct": 3.096041,
+    "image_id": "20260204T175531_20260204T175605_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-06",
+    "occupancy": 0.2000129666298379,
+    "cloud_pct": 0.276072,
+    "image_id": "20260206T174419_20260206T174757_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-06",
+    "occupancy": 0.19432588636174158,
+    "cloud_pct": 0.00414,
+    "image_id": "20260206T174419_20260206T174757_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-06",
+    "occupancy": 0.21625208452864186,
+    "cloud_pct": 0.314067,
+    "image_id": "20260206T175321_20260206T175316_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-06",
+    "occupancy": 0.20336649304073096,
+    "cloud_pct": 0.016756,
+    "image_id": "20260206T175321_20260206T175316_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-09",
+    "occupancy": 0.2766341687536683,
+    "cloud_pct": 0.351927,
+    "image_id": "20260209T175359_20260209T175835_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-09",
+    "occupancy": 0.28572837111138355,
+    "cloud_pct": 11.214674,
+    "image_id": "20260209T175359_20260209T175835_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-09",
+    "occupancy": 0.3448013182848543,
+    "cloud_pct": 0.089998,
+    "image_id": "20260209T180311_20260209T180312_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-09",
+    "occupancy": 0.3573519986596707,
+    "cloud_pct": 3.837844,
+    "image_id": "20260209T180311_20260209T180312_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-14",
+    "occupancy": 0.24253312313778214,
+    "cloud_pct": 5.321024,
+    "image_id": "20260214T175431_20260214T180125_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-14",
+    "occupancy": 0.24691822992208431,
+    "cloud_pct": 3.510088,
+    "image_id": "20260214T175431_20260214T180125_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-16",
+    "occupancy": 0.012749083973297194,
+    "cloud_pct": 0.042811,
+    "image_id": "20260216T174309_20260216T175133_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-16",
+    "occupancy": 0.02111865194911595,
+    "cloud_pct": 0.04505,
+    "image_id": "20260216T175321_20260216T175318_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-16",
+    "occupancy": 0.012397366508671648,
+    "cloud_pct": 0.183801,
+    "image_id": "20260216T175321_20260216T175318_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-21",
+    "occupancy": 0.10710941801544471,
+    "cloud_pct": 0.069412,
+    "image_id": "20260221T174341_20260221T174652_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-21",
+    "occupancy": 0.08334175472713319,
+    "cloud_pct": 0.130891,
+    "image_id": "20260221T174341_20260221T174652_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-24",
+    "occupancy": 0.0,
+    "cloud_pct": 17.010888,
+    "image_id": "20260224T175331_20260224T180249_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-26",
+    "occupancy": 0.10362209122445797,
+    "cloud_pct": 9.265087,
+    "image_id": "20260226T174159_20260226T174321_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-26",
+    "occupancy": 0.09143224052377484,
+    "cloud_pct": 0.07945,
+    "image_id": "20260226T174159_20260226T174321_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-02-26",
+    "occupancy": 0.14176649646504325,
+    "cloud_pct": 17.048045,
+    "image_id": "20260226T175531_20260226T175529_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-03-08",
+    "occupancy": 0.012458550236887935,
+    "cloud_pct": 0.11936,
+    "image_id": "20260308T174059_20260308T175028_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-03-08",
+    "occupancy": 0.004077745763539584,
+    "cloud_pct": 0.075975,
+    "image_id": "20260308T174059_20260308T175028_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-03-08",
+    "occupancy": 0.01260410718126332,
+    "cloud_pct": 0.052873,
+    "image_id": "20260308T175751_20260308T175746_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-03-08",
+    "occupancy": 0.012568964752170652,
+    "cloud_pct": 10.157863,
+    "image_id": "20260308T175751_20260308T175746_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-03-11",
+    "occupancy": 0.15394228522682202,
+    "cloud_pct": 6.043421,
+    "image_id": "20260311T175039_20260311T175558_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-03-11",
+    "occupancy": 0.15016632732458365,
+    "cloud_pct": 3.263812,
+    "image_id": "20260311T175039_20260311T175558_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-03-18",
+    "occupancy": 0.0006809133317489859,
+    "cloud_pct": 3.921951,
+    "image_id": "20260318T173939_20260318T174959_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-03-18",
+    "occupancy": 0.0,
+    "cloud_pct": 14.641663,
+    "image_id": "20260318T173939_20260318T174959_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-03-18",
+    "occupancy": 0.005414732036405433,
+    "cloud_pct": 5.321661,
+    "image_id": "20260318T175751_20260318T180149_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-03-18",
+    "occupancy": 0.005437019620081192,
+    "cloud_pct": 4.553416,
+    "image_id": "20260318T175751_20260318T180149_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-03-21",
+    "occupancy": 0.06235021186034473,
+    "cloud_pct": 0.542487,
+    "image_id": "20260321T174929_20260321T180059_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-03-21",
+    "occupancy": 0.06415034012855426,
+    "cloud_pct": 0.013689,
+    "image_id": "20260321T174929_20260321T180059_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-03-26",
+    "occupancy": 0.07939094081583249,
+    "cloud_pct": 2.744297,
+    "image_id": "20260326T174951_20260326T175927_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-03-26",
+    "occupancy": 0.08535412065685612,
+    "cloud_pct": 15.386549,
+    "image_id": "20260326T174951_20260326T175927_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-03-28",
+    "occupancy": 0.0,
+    "cloud_pct": 3.262967,
+    "image_id": "20260328T173859_20260328T175204_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-04-02",
+    "occupancy": 0.009562518389458444,
+    "cloud_pct": 1.080762,
+    "image_id": "20260402T173901_20260402T174934_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-04-02",
+    "occupancy": 0.007313023203792451,
+    "cloud_pct": 5.352391,
+    "image_id": "20260402T173901_20260402T174934_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-04-05",
+    "occupancy": 0.04395926666592187,
+    "cloud_pct": 0.000139,
+    "image_id": "20260405T174911_20260405T175614_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-04-05",
+    "occupancy": 0.04873171007287725,
+    "cloud_pct": 0.019738,
+    "image_id": "20260405T174911_20260405T175614_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-04-07",
+    "occupancy": 0.1353119881579967,
+    "cloud_pct": 2.980553,
+    "image_id": "20260407T173859_20260407T174947_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-04-12",
+    "occupancy": 0.0,
+    "cloud_pct": 11.376669,
+    "image_id": "20260412T173901_20260412T174411_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-04-15",
+    "occupancy": 0.01785037360267545,
+    "cloud_pct": 6.125988,
+    "image_id": "20260415T174901_20260415T175910_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-04-20",
+    "occupancy": 0.0,
+    "cloud_pct": 16.113301,
+    "image_id": "20260420T174859_20260420T175521_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-04-22",
+    "occupancy": 0.0,
+    "cloud_pct": 7.083014,
+    "image_id": "20260422T173901_20260422T174424_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-05-02",
+    "occupancy": 0.0009391158316515195,
+    "cloud_pct": 0.378432,
+    "image_id": "20260502T173901_20260502T174631_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-05-02",
+    "occupancy": 0.0,
+    "cloud_pct": 0.171171,
+    "image_id": "20260502T173901_20260502T174631_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-05-10",
+    "occupancy": 0.0027431374500116986,
+    "cloud_pct": 7.537755,
+    "image_id": "20260510T174859_20260510T175800_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-05-10",
+    "occupancy": 0.0035853380762903703,
+    "cloud_pct": 6.110464,
+    "image_id": "20260510T174859_20260510T175800_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-05-12",
+    "occupancy": 0.0009775171065493653,
+    "cloud_pct": 10.883949,
+    "image_id": "20260512T173901_20260512T174449_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-05-12",
+    "occupancy": 0.0,
+    "cloud_pct": 0.052173,
+    "image_id": "20260512T173901_20260512T174449_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-05-15",
+    "occupancy": 0.0021532312542220226,
+    "cloud_pct": 8.176273,
+    "image_id": "20260515T174911_20260515T180020_T13SDD",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-05-15",
+    "occupancy": 0.003554811911995657,
+    "cloud_pct": 1.372743,
+    "image_id": "20260515T174911_20260515T180020_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  },
+  {
+    "date": "2026-05-22",
+    "occupancy": 0.0,
+    "cloud_pct": 10.623678,
+    "image_id": "20260522T173901_20260522T174842_T13TDE",
+    "location": "Walmart Supercenter - Lakewood CO"
+  }
+]
