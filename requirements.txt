@@ -1,19 +1,21 @@
-
-dotenv
+# Environment & Config
+python-dotenv==1.0.1
 
 # NLP & Transformer Pipelines
 transformers==4.43.1
-torch>=2.2.0
-spacy==3.7.4
+torch>=2.6.0             # pin exact version for stability (I suggest using a specific one based on your cuda version) 
+spacy==3.7.2              # avoids ABI mismatch
+thinc==8.2.2              # explicitly add spaCy backend
 en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0.tar.gz
 
 # Parsing & Cleaning
-regex==2024.4.28        # Replaces re2
+regex==2024.4.28
 emoji==2.11.0
 
 # Web/Data Utilities
+numpy==1.26.4             # pinned for spaCy compatibility
 pandas==2.2.2
-requests==2.32.2
+requests==2.32.3
 beautifulsoup4==4.12.3
 
 # Reddit & Twitter APIs
@@ -27,3 +29,13 @@ aiohttp==3.9.5
 # Dev & Logging
 tqdm==4.66.4
 loguru==0.7.2
+
+# Vision (for future satellite features)
+opencv-python==4.10.0.84
+scikit-image==0.24.0
+Pillow==10.4.0
+
+
+yfinance 
+
+# Database 
